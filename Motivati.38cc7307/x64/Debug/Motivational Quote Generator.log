@@ -1,0 +1,3 @@
+﻿  Source.cpp
+Z:\coding journey\Motivational Quote Generator\Source.cpp(58,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Motivational Quote Generator.vcxproj -> Z:\coding journey\Motivational Quote Generator\x64\Debug\Motivational Quote Generator.exe

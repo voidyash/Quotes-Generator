@@ -1,0 +1,7 @@
+﻿  Source.cpp
+Z:\coding journey\Motivational Quote Generator\Source.cpp(58,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 206 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Motivational Quote Generator.vcxproj -> Z:\coding journey\Motivational Quote Generator\x64\Release\Motivational Quote Generator.exe
